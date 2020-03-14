@@ -1,0 +1,6 @@
+*~
+tmp/
+vendor/
+.idea
+passcodes.go
+*.exe
